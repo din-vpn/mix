@@ -18,5 +18,5 @@
 - DEBIAN 10
 
 ### Author
-### CONTACT Hendra Store <br>
+### CONTACT DINN STORE <br>
 <a href="https://t.me/HendraStore58" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6282184684197" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
