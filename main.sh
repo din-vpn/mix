@@ -283,7 +283,7 @@ TEXT="
 <code>Exp Sc : </code><code>$EXPSC</code>
 <code>────────────────────</code>
 <i>Automatic Notification from Github</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"order","url":"https://wa.me/+6282184684197"},{"text":"install","url":"https://t.me/HendraStore58"}]]}'
+"'&reply_markup={"inline_keyboard":[[{"text":"order","url":"https://wa.me/+6283843750924"},{"text":"install","url":"https://t.me/DINN_STORE"}]]}'
 curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 curl -s --max-time $TIMES -d "chat_id=$CHATIDX&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URLX >/dev/null
 }
